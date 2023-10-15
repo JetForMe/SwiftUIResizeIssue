@@ -21,3 +21,5 @@ There are several issues, with Xcode 15 on macOS 13.6:
 	in the code for some of these attempts.
 
 ![](https://i.imgur.com/T4g6UCI.gif)
+
+If for some reason you can’t see the animated GIF above, try this [link](https://i.imgur.com/T4g6UCI.gif).
