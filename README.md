@@ -20,4 +20,4 @@ There are several issues, with Xcode 15 on macOS 13.6:
 3. Various attempts to get it to behave seem to have no effect. There are notes
 	in the code for some of these attempts.
 
-![](https://i.imgur.com/T4g6UCI.gifv)
+![](https://i.imgur.com/T4g6UCI.gif)
